@@ -1,0 +1,13 @@
+{
+    "name": "Traveller",
+    "alias": "traveller",
+    "description": "",
+    "keywords": [],
+    "order": 0,
+    "providers": [
+        "Modules\\Traveller\\Providers\\TravellerServiceProvider"
+    ],
+    "aliases": {},
+    "files": [],
+    "requires": []
+}

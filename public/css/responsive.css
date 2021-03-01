@@ -1,0 +1,372 @@
+@media only screen  and (min-width : 768px) {
+
+	
+	.msh-bnr2 h2{font-size: 35px!important;}
+	
+	/*-------- Dashboard ----------*/
+	.dashboard-bg {
+		height: 100vh;
+		position: fixed;
+		min-height: 650px;
+		z-index: 11;
+	}
+	.navbar-nav>li.dash-link>a .avatar {
+		position: absolute;
+		display: inline-block;
+		width: 30px;
+		height: 30px;
+		line-height: 36px;
+		text-align: center;
+		border-radius: 100%;
+		background-color: #f5f6f7;
+		color: #fff;
+		text-transform: uppercase;
+		left: -27px;
+		top: 20px;
+	}
+}
+	
+@media only screen  and (min-width : 993px) {
+	section {
+		padding:4em 0 3em 0;
+	}
+	.navbar-default .navbar-brand img {
+		max-width:190px;
+	}
+	.half-box {
+		padding:140px 40px;
+	}
+	.half-box h2{
+		font-size:50px;
+	}
+	nav.navbar.bootsnav.navbar-fixed.navbar-transparent .logo-display, nav.navbar.bootsnav.navbar-fixed.no-background .logo-display {
+		display: block;
+	}
+	nav.navbar.bootsnav.navbar-fixed.navbar-transparent .logo-scrolled, nav.navbar.bootsnav.navbar-fixed.no-background .logo-scrolled {
+		display: none;
+	}
+	nav.navbar.bootsnav.navbar-fixed .logo-display {
+		display: none;
+	}
+}
+
+@media only screen  and (min-width : 1024px) {
+	h1 {
+	  font-size:46px;
+	}
+	h2 {
+	  font-size:36px;
+	}
+	h3 {
+	  font-size:27px;
+	}
+	h4 {
+	  font-size:20px;
+	} 
+	
+	h5 {
+	  font-size:17;
+	}
+	
+	h6 {
+	  font-size:12;
+	}
+	
+	nav.navbar.bootsnav ul.navbar-right li.dropdown ul.dropdown-menu.left-nav li a {
+		text-align:left;
+	}
+	
+	/*------------ Custom Font Style --------------*/
+	.font-50{
+	font-size:50px;
+	}
+
+	.font-60{
+		font-size:60px;
+	}
+
+	.font-80{
+		font-size:80px;
+	}
+
+	.font-100{
+		font-size:100px;
+	}
+
+	.font-150{
+		font-size:150px;
+	}
+
+	.font-200{
+		font-size:200px;
+	}
+
+	.font-250{
+		font-size:250px;
+	}
+
+	.font-300{
+		font-size:300px;
+	}
+
+	.font-400{
+		font-size:400px;
+	}
+
+	.font-450{
+		font-size:450px;
+	}
+
+	.font-500{
+		font-size:500px;
+	}
+
+	.font-bold{
+		font-weight:bold;
+	}
+	.main-banner h2 {
+		font-size: 45px;
+		font-weight: 600;
+		margin-bottom:10px;
+	}
+	.main-banner p{
+		font-size:17px;
+	}
+
+}
+
+@media only screen  and (min-width : 1200px) {
+}
+
+@media only screen and (max-width: 1023px) and (min-width: 993px){
+
+}
+
+@media screen and (max-width: 1199px) {
+
+}
+
+@media only screen and (max-width: 992px) and (min-width: 768px){
+
+}
+@media screen and (max-width: 992px) {
+	.navbar-default .navbar-brand img {
+		max-width: 160px;
+	}
+	.main-banner .form-control{
+		margin-bottom:10px;
+	}
+	
+	.fb-log-btn {
+		margin-bottom: 10px;
+	}
+	
+	.log-screen {
+		background-image: none !important;
+	}
+	.soon-wrapper {
+		background-image: none;
+	}
+	
+	/*--------- Dashboard ----------*/
+	.book_image {
+		margin: 0 15px 0 0;
+		width: 100%;
+	}
+	.dasboard-prop-listing .prop-info {
+		width: 100%;
+	}
+	
+}
+
+@media screen and (max-width: 767px) {
+.paytotal-secdv > h5 {
+  margin-bottom: 0;
+}	
+.item-editdel > p {
+  width: 37%;
+}	
+.item-pricesec > span {
+  padding: 8px;
+  width: 75px;
+}	
+.header-shopingcard .shoping-notification {
+  right: 4px;
+  top: 5px;
+}	
+.register-confirmationdv .form {
+  padding-bottom: 0;
+}	
+.login-form-mainsec {
+  padding-bottom: 30px;
+}	
+.loginbtn {
+  font-size: 16px;
+  text-transform: uppercase;
+}	
+.log-title {
+  margin-bottom: 25px;
+}	
+.notregister-p {
+  margin-top: 25px;
+}	
+.login-btndv {
+  margin-bottom: 15px;
+}	
+.copyright-sec {
+  text-align: center;
+}	
+.footer-navigation {
+	margin-bottom: 5px;
+	text-align: center;
+}	
+.footer-socialsec > ul {
+  padding: 0;
+}	
+.footer-socialsec {
+  margin-top: 15px;
+}	
+.footer-socialsec .getintouch {
+  margin-bottom: 20px;
+}	
+.foote-email {
+  text-align: center;
+}	
+.footer-phone {
+  text-align: center;
+}	
+.footer-adres {
+  text-align: center;
+}	
+.footer-about {
+	border-bottom: 1px solid #178fe5;
+	margin-bottom: 20px;
+	text-align: center;
+}	
+.customer-callnowbtn {
+  margin-top: 0;
+}	
+.customer-callnowbtn > a {
+  display: block;
+  font-size: 16px;
+  padding: 12px 10px;
+  text-align: center;
+  width: 100%;
+}	
+.customer-supportdv > a {
+  font-size: 20px;
+}	
+.logo-section {
+  display: none;
+  padding: 10px 0;
+}	
+	
+.location-form-mainsec {
+  padding-bottom: 0;
+}	
+
+.locaion-formdv {
+	margin-bottom: 0;
+	position: relative;
+	top: -120px;
+}	
+.page-title.image-title {
+  text-align: center;
+}
+.page-title-wrap {
+  bottom: 0;
+  display: block;
+  flex-direction: column;
+  height: 100%;
+  justify-content: center;
+  left: 0;
+  margin-top: 30px;
+  position: relative;
+  right: 0;
+  top: 0;
+  transform: translate(0%, 0%);
+  width: 100%;
+  text-align: center !important;
+}
+.image-title h2 {
+  color: #ffffff;
+  font-size: 22px;
+  text-align: center;
+}	
+	.ms-sm-mar{margin-top: 10px!important;}
+	
+	html body .mob-padd-0{
+		padding:0;
+	}
+	html body .mob-mrg-0{
+		margin:0;
+	}
+	html body .mob-extra-mrg{
+		margin-left:-15px;
+		margin-right:-15px;
+	}
+	.heading h2 {
+		font-size: 28px;
+	}
+	/*----- Mobile Padding Settings ------*/
+	.mob-padd-0{
+		padding-left:0;
+		padding-right:0;
+	}
+	.mob-mrg-0{
+		margin-left:-15px;
+		margin-right:-15px;
+	}
+	.mob-extra-mrg{
+		margin-left:-15px;
+		margin-right:-15px;
+	}
+	
+	.banner {
+		padding: 100px 0 80px 0;
+	}
+	
+	.mbb-1{
+		border-bottom:1px solid #dde6ef;
+	}
+	.destination-box.list-style, .hotel-box.list-style, .restaurent-box.list-style, .tour-box.list-style {
+    height: auto;
+	}
+	.destination-box.list-style .inner-box, .hotel-box.list-style .inner-box, .restaurent-box.list-style .inner-box, .tour-box.list-style .inner-box  {
+		padding: 30px 20px 30px 20px;
+	}
+	.sl-box{
+		margin-bottom:10px;
+	}
+	.profile-header-nav .theme-btn {
+		width: 100% !important;
+		display: block;
+		float: none !important;
+		margin-bottom: 15px;
+	}
+	.profile-header-nav .fl-right{
+		float:none;
+	}
+	.profile-header-nav .nav-tabs li a {
+		border-right:none;
+	}
+
+	.log-wrapper {
+		display: block !important;
+	}
+	.nice-select ul.list {
+		max-height:150px;
+		overflow-y: scroll;
+	}
+
+}
+
+@media screen and (max-width: 479px) {
+	ul.amenities.third li{
+		width:50%;
+	}
+	ul.amenities.fourth li{
+		width:50%;
+	}
+
+}
